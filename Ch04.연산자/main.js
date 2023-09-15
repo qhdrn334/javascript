@@ -108,3 +108,17 @@
     let n1 = !true;   //  반대로 출력 false
     let n2 = !false;  //  반대로 출력 true
     let n2 = !111;    //  반대로 출력 false
+
+
+
+
+    /* 삼항연산자
+    - 조건식 ? 값1 : 값2
+    - 조건식이 true이면 값1을 반환하고 false이면 값2를 반환한다         */
+
+    let number = 11;
+
+    let result2 = number / 2 == 1 ?   "홀수입니다." : "짝수입니다.";
+    console.log(result2);
+
+ 
