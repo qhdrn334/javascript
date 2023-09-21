@@ -102,7 +102,7 @@ case 5;
 console.log("C 학점입니다");
 break;
 default;
-console.log("F 학점입니다");
+console.log("F 학점입니다");  //위에 아므조건이 안맞으면 default;로 내려온다
 
 
 }
