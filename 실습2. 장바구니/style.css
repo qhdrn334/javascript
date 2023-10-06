@@ -1,0 +1,29 @@
+.products {
+  font-size: 15px;
+  border: 1px solid #c3c3c3;
+  width:600px;
+  height: 350px;
+ 
+}
+.product {
+   padding: 10px 0px 10px 0px;
+   
+}
+.price {
+   padding-left: 200px;
+   padding-right: 80px;   
+}
+
+.quantity {
+   width: 30px;
+   height: 20px;
+   
+}
+
+.addCart {
+   padding: 4px;
+   border: none;
+   background-color:  #4cca85;
+   color: aliceblue;
+   border-radius: 2px;
+   }
