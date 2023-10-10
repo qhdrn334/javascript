@@ -24,7 +24,7 @@
 
 //프로퍼티 리스너
 let btn1 = document.getElementById("btn1");
-btn1.onclick.function() {
+btn1.onclick.function(); {
    alert("hello");
 };
 

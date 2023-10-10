@@ -8,7 +8,7 @@ get 매서드, 쿼리 매서드
 get매서드 
 - document.getE1ementById : HTML 요소에서 고유한 id를 이용하여 요소를 찾는다
 
-- document.getE1ementsByClassName : HTML에서 클래시명으로 요소를 찾는다
+- document.getE1ementsByClassName : HTML에서 클래스명으로 요소를 찾는다
 - document.getE1ementsByTagName : HTML에서 태그명으로 요소를 찾는다  
 
 
@@ -73,7 +73,7 @@ let hello2 = document.querySelector("#hello2");
 hello2.classList.add("hello2");
 hello2.classList.remove("hello2");
 
-/* 새로운 요소 만들기
+/* 새로운 요소(태그) 만들기
 - createElment : 지정한 태그로 HTML요소를 생성한다
 - appendChild : 삽입할 요소를 부모 요소의 마지막 자식 요소로 추가한다
 - insertBefore : 첫번째는 삽입할 요소이고 두번쨰는 삽입할 위치를 정하는 요소이다
